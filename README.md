@@ -1,2 +1,2 @@
 # GitDemo
-This repository is used to work with Git
+This repository is used to work with Git.
